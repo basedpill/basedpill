@@ -12,6 +12,5 @@
 <br>
 <hr>
 
-<img src="https://komarev.com/ghpvc/?username=mayhapsDev&style=flat-square">
 
 </center>
